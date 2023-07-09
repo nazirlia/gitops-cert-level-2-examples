@@ -11,7 +11,7 @@ spec:
   # The project the application belongs to.
   project: default
 
-  # Source of the application manifests
+  #Source of the application manifests
   source:
     repoURL: https://github.com/nazirlia/gitops-cert-level-2-examples.git
     targetRevision: HEAD
